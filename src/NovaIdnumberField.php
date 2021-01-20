@@ -1,6 +1,6 @@
 <?php
 
-namespace Otrsw\NovaIdnumberField;
+namespace Imumz\NovaIdnumberField;
 
 use Laravel\Nova\Fields\Field;
 

@@ -1,6 +1,6 @@
 <?php
 
-namespace Otrsw\NovaIdnumberField;
+namespace Imumz\NovaIdnumberField;
 
 use Laravel\Nova\Nova;
 use Laravel\Nova\Events\ServingNova;

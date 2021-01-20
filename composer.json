@@ -1,5 +1,5 @@
 {
-    "name": "otrsw/nova-idnumber-field",
+    "name": "imumz/nova-idnumber-field",
     "description": "A Laravel Nova field.",
     "keywords": [
         "laravel",
@@ -11,13 +11,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Otrsw\\NovaIdnumberField\\": "src/"
+            "Imumz\\NovaIdnumberField\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Otrsw\\NovaIdnumberField\\FieldServiceProvider"
+                "Imumz\\NovaIdnumberField\\FieldServiceProvider"
             ]
         }
     },
